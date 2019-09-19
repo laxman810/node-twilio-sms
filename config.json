@@ -1,0 +1,6 @@
+{
+    "TWILIO_FROM": "from mobile number",
+    "TWILIO_ACCOUNT_SID": "your twilio account sid",
+    "TWILIO_AUTH_TOKEN": "your twilio account auth token",
+    "TWILIO_CALLBACK_URL": "http://localhost:1235/MessageStatus"
+}
